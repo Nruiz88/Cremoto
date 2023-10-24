@@ -10,7 +10,7 @@ const flowHola = addKeyword(['hola', 'buenas', 'que tal'])
     .addAnswer('Que tal')
     .addAnswer('En que puedo ayudarte');
 
-const flowPrecio = addKeyword(['precio', 'consulta'])
+const flowPrecio = addKeyword(['precio', 'consulta', 'control', 'control remoto'])
     .addAnswer('¿Podrías indicarnos la *Marca* y *Modelo del televisor* o enviarnos una Foto del Control?')
     .addAnswer('El *Modelos del Televisor* se encuentra en la etiqueta de atras del *Televisor*')
 
